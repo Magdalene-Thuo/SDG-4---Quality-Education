@@ -1,0 +1,27 @@
+*Title: Clustering Student Learning Profiles to Support Quality Education (SDG 4)*
+
+Problem Statement:
+We analyzed student performance to identify distinct learning profiles. This allows educators to personalize support and resources, helping students succeed based on their individual needs.
+
+ML Approach:
+We used Unsupervised Learning (K-Means Clustering) to group students based on their academic performance and engagement metrics.
+
+Results:
+The model identified 3 core clusters:
+
+Cluster 0: High performers
+
+Cluster 1: Moderate performers
+
+Cluster 2: At-risk students
+
+These insights can be used to assign additional support (e.g., tutoring or alternative learning resources) to Cluster 2 students.
+
+Ethical Considerations:
+
+Avoid labeling students in ways that limit potential.
+
+Data should be anonymized to protect student privacy.
+
+Use insights to uplift, not penalize.
+
